@@ -5,7 +5,7 @@ import heroArrow from "../assets/hero-arrow.svg";
 
 const Hero = () => {
   return (
-    <section className="hero-container mx-auto px-12 mt-16 flex flex-col mb-8 gap-16">
+    <section className="hero-container mx-auto px-12 mt-16 flex flex-col mb-48 gap-16">
 
         <div className="hero-content flex flex-row justify-between gap-12 items-center">
             <div className="flex flex-col gap-8">

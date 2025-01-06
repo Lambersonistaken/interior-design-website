@@ -5,7 +5,7 @@ import serviceOutdoor from "../assets/service-outdoor.svg";
 
 const Services = () => {
   return (
-    <section className="services flex flex-col gap-16 mt-24 mb-12 px-12">
+    <section className="services flex flex-col gap-16 mt-24 mb-52 px-12">
       
     <div className="service-content flex flex-row items-center gap-4">
 

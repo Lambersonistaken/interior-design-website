@@ -5,7 +5,7 @@ import Accordion from "../components/Accordion";
 const Design = () => {
 
   return (
-    <section className="design flex flex-row gap-16 px-12 mt-36 mb-16">
+    <section className="design flex flex-row gap-16 px-12 mt-36 mb-48">
 
         <div className="design-content">
             <img className="w-[900px]" src={designImg} alt="" />

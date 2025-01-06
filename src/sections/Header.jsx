@@ -2,7 +2,7 @@ import vivaLogo from "../assets/viva-logo.svg";
 
 const Header = () => {
   return (
-    <header className="flex flex-row px-12 justify-between items-center p-8 mt-4 bg">
+    <header className="flex flex-row px-12 justify-between items-center p-8 mb-48 mt-4 bg">
         <div>
             <img className="w-[177px]" src={vivaLogo} alt="viva decor logo" />
         </div>

@@ -5,6 +5,7 @@ import CustomerCard from "../components/CustomerCard";
 import customer1 from "../assets/customer1.svg";
 import customer2 from "../assets/customer2.svg";
 
+
 const Customers = () => {
   return (
     <section className="customers z-0 relative flex flex-row gap-16 px-12 mt-36 mb-48">
@@ -25,6 +26,8 @@ const Customers = () => {
             <CustomerCard image={customer1} name="Sophie Carter" country="New York, USA" comment="Working with your design team was an absolute pleasure. The attention to detail and creativity exceeded my expectations.  Thank you for making my home beautiful!" />
             <CustomerCard image={customer2} name="James Bennett" country="Toronto, Canada" comment="Exceptional service! From the initial consultation to the final reveal, your team demonstrated professionalism and a keen eye for design. Highly recommend!" />
       </div>
+      
+      
       
 
     </section>

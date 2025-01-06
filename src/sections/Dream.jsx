@@ -11,7 +11,7 @@ const Dream = () => {
 
       <div className="dream-content">
 
-      <div className="mb-12 text-4xl font-bold">
+      <div className="mb-12 text-5xl font-bold">
           <h1>Designing Your Dream in Three Simple Steps</h1>
       </div>
         

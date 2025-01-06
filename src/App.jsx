@@ -3,6 +3,7 @@ import Hero from "./sections/Hero"
 import Services from "./sections/Services"
 import Design from "./sections/Design"
 import Dream from "./sections/Dream"
+import Customers from "./sections/Customers"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <Services />
     <Design/>
     <Dream/>
+    <Customers/>
     </>
   )
 }

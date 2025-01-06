@@ -12,7 +12,7 @@ const Design = () => {
         </div>
 
         <div className="design-content flex flex-col gap-8">
-            <h1 className="text-4xl font-semibold">Designing Your Dream With Brilliance</h1>
+            <h1 className="text-5xl font-semibold">Designing Your Dream With Brilliance</h1>
             <p className="text-slate-800 font-medium text-base mb-6">Elevate your spaces with bespoke interior designs that reflect your unique style and aspirations, crafted with precision and brilliance for an unforgettable living experience</p>
             <div className="flex flex-col justify-between gap-4">
 

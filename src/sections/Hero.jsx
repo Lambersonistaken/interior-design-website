@@ -7,10 +7,10 @@ const Hero = () => {
   return (
     <section className="hero-container mx-auto px-12 mt-16 flex flex-col mb-48 gap-16">
 
-        <div className="hero-content flex flex-row justify-between gap-12 items-center">
+        <div className="hero-content flex flex-row justify-between gap-12 lg:gap-24 items-center">
             <div className="flex flex-col gap-8">
-                <h1 className="text-[110px] 2xl:text-[150px] font-medium">Interior Design</h1>
-                <p className="text-slate-800 text-xl font-medium ml-1 w-[550px]">Step into a world where the art of Interior Design is meticulously crafted to bring together timeless elegance and cutting-edge 
+                <h1 className="text-[110px] 2xl:text-[150px] font-medium lg:text-[85px] xl:text-[90px]">Interior Design</h1>
+                <p className="text-slate-800 text-xl font-medium ml-1 w-[550px] 2xl:text-2xl">Step into a world where the art of Interior Design is meticulously crafted to bring together timeless elegance and cutting-edge 
                 modern Innovation, Allowing you to transform your living spaces into the epitome of luxury and sophistication.</p>
             </div>
             <div>

@@ -6,10 +6,11 @@ import Dream from "./sections/Dream"
 import Customers from "./sections/Customers"
 import Footer from "./sections/Footer"
 
+
 function App() {
 
   return (
-    <>
+    <main>
     <Header />
     <Hero />
     <Services />
@@ -17,7 +18,7 @@ function App() {
     <Dream/>
     <Customers/>
     <Footer />
-    </>
+    </main>
   )
 }
 

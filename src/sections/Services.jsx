@@ -19,24 +19,24 @@ const Services = () => {
         <div className="flex flex-row gap-6 px-6">
             <img className="w-[60px] self-start" src={serviceLight} alt="" />
             <div className="flex flex-col gap-4">
-                <h2 className="font-semibold text-2xl">Lighting Design</h2>
-                <p className="text-slate-800 font-medium">Achieve the perfect balance of ambient, task, and accent lighting for a functional atmosphere.</p>
+                <h2 className="font-semibold text-2xl lg:text-xl 2xl:text-3xl">Lighting Design</h2>
+                <p className="text-slate-800 font-medium lg:text-sm 2xl:text-xl">Achieve the perfect balance of ambient, task, and accent lighting for a functional atmosphere.</p>
             </div>
         </div>
 
         <div className="flex flex-row gap-6 px-6">
         <img className="w-[60px] self-start" src={serviceInterior} alt="" />
         <div className="flex flex-col gap-4">
-                <h2 className="font-semibold text-2xl">Interior Design</h2>
-                <p className="text-slate-800 font-medium">From concept to completion, we oversee every detail to bring your vision to life efficiently.</p>
+                <h2 className="font-semibold text-2xl lg:text-xl 2xl:text-3xl">Interior Design</h2>
+                <p className="text-slate-800 font-medium lg:text-sm 2xl:text-xl">From concept to completion, we oversee every detail to bring your vision to life efficiently.</p>
         </div>
         </div>      
 
         <div className="flex flex-row gap-6 px-6">
         <img className="w-[60px] self-start" src={serviceOutdoor} alt="" />
         <div className="flex flex-col gap-4">
-                <h2 className="font-semibold text-2xl">Outdoor Design</h2>
-                <p className="text-slate-800 font-medium">Celebrate the changing seasons with our seasonal outdoor decor services.</p>
+                <h2 className="font-semibold text-2xl lg:text-xl 2xl:text-3xl">Outdoor Design</h2>
+                <p className="text-slate-800 font-medium lg:text-sm 2xl:text-xl">Celebrate the changing seasons with our seasonal outdoor decor services.</p>
         </div>
         </div>
 

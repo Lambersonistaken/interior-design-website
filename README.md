@@ -5,7 +5,7 @@ A modern, responsive interior design website built with React and Vite, showcasi
 ## ✨ Features
 
 - 🎨 Modern and minimalist design
-- 📱 Fully responsive layout
+- 📱 Fully responsive layout for Laptop and Desktop View
 - 🔄 Interactive components
 - 🎯 Service showcase sections
 - 👥 Customer testimonials

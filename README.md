@@ -5,12 +5,11 @@ A modern, responsive interior design website built with React and Vite, showcasi
 ## ✨ Features
 
 - 🎨 Modern and minimalist design
-- 📱 Fully responsive layout
+- 📱 Fully responsive layout for Laptop and Desktop View
 - 🔄 Interactive components
 - 🎯 Service showcase sections
 - 👥 Customer testimonials
 - 📧 Newsletter subscription
-- 🌓 Smooth animations
 
 ## 🛠️ Technologies Used
 
@@ -31,12 +30,12 @@ A modern, responsive interior design website built with React and Vite, showcasi
 
 ## 📸 Screenshots
 
-### Homepage Hero Section
-![Homepage Screenshot](ss1.png)
+### Services & Testimonials
+![Services Screenshot](ss1.png)
 *Elegant hero section showcasing interior design services with modern typography and imagery*
 
-### Services & Testimonials
-![Services Screenshot](ss2.png)
+### Homepage Hero Section
+![Homepage Screenshot](ss2.png)
 *Interactive services section with customer testimonials and project statistics*
 
 ## 🏗️ Project Structure

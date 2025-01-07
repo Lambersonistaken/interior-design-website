@@ -10,7 +10,6 @@ A modern, responsive interior design website built with React and Vite, showcasi
 - 🎯 Service showcase sections
 - 👥 Customer testimonials
 - 📧 Newsletter subscription
-- 🌓 Smooth animations
 
 ## 🛠️ Technologies Used
 

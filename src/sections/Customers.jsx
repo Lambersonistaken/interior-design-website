@@ -26,7 +26,7 @@ const Customers = () => {
       </div>
 
       <div className="customer-container absolute bottom-[-6rem] left-1/2 transform -translate-x-1/2
-                    mx-4 sm:mx-0 pl-4 sm:pl-8 pt-8 pr-2 pb-2 rounded-[4px] 
+                    mx-4 sm:mx-0 pl-4 sm:pl-8 pt-8 pr-2 pb-2 rounded-[4px]  lg:left-[40rem]
                     flex flex-col sm:flex-row gap-8 items-center justify-center z-10 bg-white">
         <CustomerCard 
           image={customer1} 
